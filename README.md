@@ -1,1 +1,32 @@
-[README.md](https://github.com/Homoakin619/Homoakin619/files/9888955/README.md)
+
+# Homoakin619
+
+
+
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Python,Django, HTML, CSS...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on frontend and backend projects...
+
+🧠 I'm currently learning a lot of things about fullstack development...
+
+👯‍♀️ I'm looking to collaborate on frontend(HTML,CSS) and Django projects ...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about backend stuffs with django...
+
+📫 How to reach me Mail: homohaykins619@gmail.com Twitter: @AkintundeIsmah1...
+
+😄 Pronouns : He/Him...
+
+⚡️ Fun fact I am an easy going person...
+
