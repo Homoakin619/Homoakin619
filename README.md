@@ -6,11 +6,11 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer solving real life problems with code....
 
 
 ## 🛠 Skills
-Python,Django, HTML, CSS...
+Python,Django, HTML, CSS | HNGX Finalist...
 
 
 ## Other Common Github Profile Sections
